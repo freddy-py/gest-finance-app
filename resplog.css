@@ -1,0 +1,9 @@
+@media screen and (max-width:800px) {
+    .main-container .left-content {
+        display: none;
+    }
+    .main-container .right-container {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
